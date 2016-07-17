@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: moneylover
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.denisgmarques
+Build-Jdk: 1.7.0_80
+Built-By: denis
+Created-By: Maven Integration for Eclipse
+Main-Class: br.com.denisgmarques.MoneyloverApplication
+
